@@ -1,0 +1,21 @@
+﻿Build started 1/10/2016 2:39:41 PM.
+     1>Project "F:\6th Semester\cg\project\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\vs13\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _MBCS /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Sorts.cpp
+         Sorts.cpp
+     1>f:\6th semester\cg\project\project1\project1\RGBA.h(324): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\6th semester\cg\project\project1\project1\RGBA.h(326): warning C4018: '<' : signed/unsigned mismatch
+     1>Sorts.cpp(22): warning C4018: '<' : signed/unsigned mismatch
+     1>Sorts.cpp(639): warning C4018: '<' : signed/unsigned mismatch
+     1>Sorts.cpp(1634): warning C4018: '<' : signed/unsigned mismatch
+     1>Sorts.cpp(1935): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         F:\vs13\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\6th Semester\cg\project\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Project1.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\6th Semester\cg\project\Project1\Debug\Project1.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         Debug\Sorts.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Project1.vcxproj -> F:\6th Semester\cg\project\Project1\Debug\Project1.exe
+     1>Done Building Project "F:\6th Semester\cg\project\Project1\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.08
